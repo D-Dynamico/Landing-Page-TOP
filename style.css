@@ -107,6 +107,7 @@ header{
     margin-top: 100px;
     background-color: #e5e7eb;
     padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 .quote{
@@ -123,4 +124,17 @@ header{
     font-size: 20px;
     padding-top: 15px;
     margin-left: 600px;
+}
+
+footer{
+    background-color: #1f2937;
+}
+
+.footer-text{
+    color: white;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
 }
